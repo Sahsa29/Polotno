@@ -1,0 +1,97 @@
+body{
+	margin:0;
+}
+#Menu {
+ 	background-color:#088A85;
+ 	margin:0;
+}
+#Menu li {
+ 	display: inline; 
+}
+#Menu a {
+ 	color: #610B21;
+ 	padding: 15px 25px;
+ 	display: inline-block;
+ 	font-size: 25px;
+}
+nav{
+	text-align: right; 
+}
+ section{
+ 	 
+ 	height: 700px;
+ 	background-color: #0A2A29;
+}
+.osnova img{
+	width:320PX;
+	height:480PX;
+	text-align: center;
+	margin-left: 520px;
+	margin-top: 20px;
+}
+h1 {
+	text-align: center;
+	color: #F5A9BC;
+	font-size: 30px;
+}
+p {
+ 	text-align: center;
+ 	color: #F5A9BC;
+ 	font-size: 25px;
+}
+article{
+ 	height: 870px;
+ 	background-color:#F6CED8;
+
+}
+.Painter{
+	display: flex;
+	flex-direction: column;
+	
+}
+h2{
+	text-align: center;
+	color: #0A2229;
+	font-size: 25px;
+	padding-top: 25px;
+	margin:0;
+}
+.osnova1 img{
+	width: 320px;
+	height: 320px;
+	justify-content: space-around;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.osnova2 img{
+	width: 320px;
+	height: 320px;
+	justify-content: space-around;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+footer{
+	height: 500px;
+ 	background-color: #0A2A29;
+ 	
+}
+h3{
+	text-align: center;
+	color: #F5A9BC;
+	font-size: 25px;
+	padding-top: 17px;
+	margin: 0;
+
+}
+.text{
+ 	display: flex;
+ 	margin-left: 55px;
+ 	margin-right: 55px;
+ 	padding-left: 15px;
+
+}
+.put p{
+	display: flex;
+	color: #0A2A29;
+	margin: 10px;
+}
